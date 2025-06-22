@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 const char* ssid = "ESP8266";
-const char* password = "NJPVandeBharat";
+const char* password = "***";
 
 int ledPin1 = D5; // LED 1 connected to D5
 int ledPin2 = D6; // LED 2 connected to D6
