@@ -1,7 +1,7 @@
 #include<ESP8266WiFi.h>
 
-const char* ssid="NIHAR";
-const char* pass="NIHAR264666";
+const char* ssid="*****";
+const char* pass="*****";
 
 WiFiServer server(80);
 
