@@ -1,6 +1,6 @@
 #include<ESP8266WiFi.h>
-const char* ssid="NIHAR";
-const char* pass="NIHAR264666";
+const char* ssid="*****";
+const char* pass="*****";
 void setup() {
 Serial.begin(9600);
 // put your setup code here, to run once:
